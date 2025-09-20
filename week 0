@@ -1,3 +1,8 @@
+*Getting started with Digital VLSI SOC Design and Planning*
+O0 == O1 == O2 == O3 == O4 
+
+
+
 This repository provides a step-by-step installation guide for setting up essential open-source VLSI tools on an Ubuntu system. These tools cover different stages of the digital design flow: synthesis, simulation, verification, circuit analysis, layout design, and physical design.
 
 📌 System Requirements
